@@ -13,15 +13,15 @@ import tapped from "../assets/tapped.png"
 const items = [
     {
         "title": "Website",
-        "subtitle": "Look at my work!",
+        "subtitle": "check us out!",
         "image": website,
-        "link": "https://jonaylor.xyz" //your personal website or portfolio  link
+        "link": "https://tapped.ai"
     },
     {
         "title": "Blog",
-        "subtitle": "The latest content for what I've written",
+        "subtitle": "the latest content for what we've written",
         "image": blog,
-        "link": "https://blog.jonaylor.xyz"// Blog link
+        "link": "https://blog.tapped.ai"
     },
     {
         "title": "GitHub",

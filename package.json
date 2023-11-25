@@ -5,6 +5,7 @@
   "dependencies": {
     "@vercel/analytics": "1.0.1",
     "framer-motion": "^4.1.17",
+    "node": "16.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^4.0.3"
