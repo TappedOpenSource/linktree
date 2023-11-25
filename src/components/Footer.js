@@ -7,7 +7,7 @@ import '../css/components.css'
 function Footer() {
     return (
         <div className="Footer container">
-            <p>Made with <span role="img" aria-label="heart">❤️</span> &nbsp; by &nbsp; <a href={"https://github.com/jonaylor89"}>Johannes</a></p>
+            <p>Made with <span role="img" aria-label="heart">❤️</span> &nbsp; by &nbsp; <a href={"https://github.com/TappedOpenSource"}>tapped ai</a></p>
         </div>
     )
 }
