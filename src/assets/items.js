@@ -12,7 +12,7 @@ import twitter from '../assets/twitter.png'
 import coverart from "../assets/coverart_sample.png"
 import epk from "../assets/epk_sample.png"
 import appsample from "../assets/app_sample.png"
-import marketing from "../assets/marketing_sample.png"
+import marketing from "../assets/marketing_og.png"
 import viralchecker from "../assets/viralchecker_sample.png"
 import viralideas from "../assets/viral_idea_sample.png"
 
