@@ -24,6 +24,12 @@ const items = [
         "link": "https://tapped.ai"
     },
     {
+        "title": "tapped booking",
+        "subtitle": "get booked for your next show!",
+        "image": appsample,
+        "link": "https://app.tapped.ai"
+    },
+    {
         "title": "tapped illustrator",
         "subtitle": "create beautiful cover art in minutes!",
         "image": coverart,
