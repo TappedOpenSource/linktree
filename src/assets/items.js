@@ -12,10 +12,34 @@ import tapped from "../assets/tapped.png"
 
 const items = [
     {
-        "title": "Website",
+        "title": "website",
         "subtitle": "check us out!",
         "image": website,
         "link": "https://tapped.ai"
+    },
+    {
+        "title": "tapped illustrator",
+        "subtitle": "create beautiful cover art in minutes!",
+        "image": website,
+        "link": "https://getmusicart.com"
+    },
+    {
+        "title": "marketing plans",
+        "subtitle": "create a marketing strategy for your album!",
+        "image": website,
+        "link": "https://getmusicmarketing.com"
+    },
+    {
+        "title": "epk generator",
+        "subtitle": "create an EPK to get your next show",
+        "image": website,
+        "link": "https://getmusicepk.com"
+    },
+    {
+        "title": "viral social media ideas",
+        "subtitle": "get ideas for your next viral post",
+        "image": website,
+        "link": "https://viralsocialmediaideas.com"
     },
     {
         "title": "Blog",
@@ -25,41 +49,22 @@ const items = [
     },
     {
         "title": "GitHub",
-        "subtitle": "@jonaylor89 | 🏠 of my open-source projects",
+        "subtitle": "@TappedOpenSource | 🏠 of our open-source projects",
         "image": github,
-        "link": "https://github.com/jonaylor89" //Github Profile link
+        "link": "https://github.com/TappedOpenSource" //Github Profile link
     },
     {
         "title": "Twitter",
-        "subtitle": "@jonaylor89 | Don't forget to follow me 😉",
+        "subtitle": "@tappedai | Don't forget to follow us 😉",
         "image": twitter,
-        "link": "https://twitter.com/jonaylor89"// twitter profile link 
-    },
-    {
-      "title": "Tapped",
-      "subtitle": "A live music portfolio for musicians",
-      "image": tapped,
-      "link": "https://tapped.jonaylor.xyz"
-    },
-    {
-        "title": "In The Loop",
-        "subtitle": "The platform tailored for artists and producers to collaborate",
-        "image": intheloop,
-        "link": "https://intheloopstudio.com" // In The Loop landing page
+        "link": "https://twitter.com/tappedai"// twitter profile link 
     },
     {
         "title": "Apps",
         "subtitle": "Hub of my awesome 🔥 Apps",
         "image": appstore,
-        "link": "https://play.google.com/store/apps/developer?id=John+Naylor"// google play linik
+        "link": "https://app.tapped.ai/download"
     },
-    {
-        "title": "Dribbble",
-        "subtitle": "@jonaylor89 | Hub to the Shots of my 😎 apps ",
-        "image": dribbble,
-        "link": "https://dribbble.com/jonaylor89" // Dribbble profile link 
-    },
-
 ]
 
 export default items
