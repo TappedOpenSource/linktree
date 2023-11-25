@@ -21,7 +21,7 @@ function Header() {
         <img src={logo} alt="logo" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>tapped</b>
+          <b>tapped toolkit</b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
