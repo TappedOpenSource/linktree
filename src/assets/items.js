@@ -1,14 +1,20 @@
 import website from '../assets/website.png'
-// import instagram from '../assets/instagram.png'
+import instagram from '../assets/instagram.png'
 import appstore from '../assets/playstore.png'
 // import youtube from '../assets/youtube.jpeg'
-import dribbble from '../assets/dribbble.png'
+// import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 // import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
-import blog from '../assets/blog.png'
-import intheloop from '../assets/intheloop.png'
-import tapped from "../assets/tapped.png"
+// import blog from '../assets/blog.png'
+// import intheloop from '../assets/intheloop.png'
+// import tapped from "../assets/tapped.png"
+import coverart from "../assets/coverart_sample.png"
+import epk from "../assets/epk_sample.png"
+import appsample from "../assets/app_sample.png"
+import marketing from "../assets/marketing_sample.png"
+import viralchecker from "../assets/viralchecker_sample.png"
+import viralideas from "../assets/viral_idea_sample.png"
 
 const items = [
     {
@@ -20,38 +26,44 @@ const items = [
     {
         "title": "tapped illustrator",
         "subtitle": "create beautiful cover art in minutes!",
-        "image": website,
+        "image": coverart,
         "link": "https://getmusicart.com"
     },
     {
         "title": "marketing plans",
         "subtitle": "create a marketing strategy for your album!",
-        "image": website,
+        "image": marketing,
         "link": "https://getmusicmarketing.com"
     },
     {
         "title": "epk generator",
         "subtitle": "create an EPK to get your next show",
-        "image": website,
+        "image": epk,
         "link": "https://getmusicepk.com"
     },
     {
         "title": "viral social media ideas",
         "subtitle": "get ideas for your next viral post",
-        "image": website,
+        "image": viralideas,
         "link": "https://viralsocialmediaideas.com"
     },
     {
-        "title": "Blog",
-        "subtitle": "the latest content for what we've written",
-        "image": blog,
-        "link": "https://blog.tapped.ai"
+        "title": "viral checker",
+        "subtitle": "see if your song is going viral",
+        "image": viralchecker,
+        "link": "https://getmusicviralchecker.com"
     },
     {
         "title": "GitHub",
         "subtitle": "@TappedOpenSource | 🏠 of our open-source projects",
         "image": github,
         "link": "https://github.com/TappedOpenSource" //Github Profile link
+    },
+    {
+        "title": "Instagram",
+        "subtitle": "@tappedai | Don't forget to follow us 😉",
+        "image": instagram,
+        "link": "https://instagram.com/tappedai"// instagram profile link 
     },
     {
         "title": "Twitter",
